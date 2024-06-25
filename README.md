@@ -1,4 +1,7 @@
 # 云脚本安全防破解
+## QQ：168777105
+## Discord：xiaoyun1901
+## Please contact me. What's the problem?
 <!---
 你发现了彩蛋，我骗你
 
