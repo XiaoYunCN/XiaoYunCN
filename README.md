@@ -2,6 +2,45 @@
 ## QQ：168777105
 ## Discord：xiaoyun1901
 ## Please contact me. Please help me, my white list has been cracked.
+
+![VisionExe github stats](https://github-readme-stats.vercel.app/api?username=VisionExe&count_private=true&show_icons=true&theme=radical)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=VisionExe&layout=compact&theme=radical" />
+</a>
+
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!---
 你发现了彩蛋，我骗你
 
