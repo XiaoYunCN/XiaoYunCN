@@ -1,16 +1,6 @@
 云脚本：https://github.com/XiaoYunCN/VIP
-## QQ：168777105
-## Discord：xiaoyun1901
-
-![VisionExe github stats](https://github-readme-stats.vercel.app/api?username=VisionExe&count_private=true&show_icons=true&theme=radical)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=VisionExe&layout=compact&theme=radical" />
-</a>
-
-</details>
-
+# QQ：168777105
+# Discord：xiaoyun1901
 
 
 
