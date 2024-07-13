@@ -1,6 +1,6 @@
 云脚本：https://github.com/XiaoYunCN/VIP
-# QQ：168777105
-# Discord：xiaoyun1901
+ QQ：168777105
+ Discord：xiaoyun1901
 
 
 
