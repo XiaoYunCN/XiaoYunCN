@@ -1,7 +1,7 @@
 云脚本：https://github.com/XiaoYunCN/VIP
 #### QQ：168777105
 #### Discord：xiaoyun1901
-# 〖ROBLOX与云脚本交流群〗：http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=7Kv0A8agTw8NZJEYx5D3Ni2LdKpCTU-e&authKey=yF5i0mlVUCgYN346fpUMB8QzKJuIjACOHP6ml1sBzX%2FEhhKJzL%2BNdtZnu2eQYinP&noverify=0&group_code=296846962
+##### 〖ROBLOX与云脚本交流群〗：http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=7Kv0A8agTw8NZJEYx5D3Ni2LdKpCTU-e&authKey=yF5i0mlVUCgYN346fpUMB8QzKJuIjACOHP6ml1sBzX%2FEhhKJzL%2BNdtZnu2eQYinP&noverify=0&group_code=296846962
 
 
 
