@@ -1,5 +1,5 @@
 ##### Discord Contact me:XiaoYun1901
-###### Did someone teach me to write scripts lua?
+####### Did someone teach me to write scripts lua?
 
 
 
