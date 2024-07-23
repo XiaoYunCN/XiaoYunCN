@@ -1,3 +1,4 @@
+# 云脚本主群https://qm.qq.com/q/3iLMGhwYnC
 ##### Discord Contact me:XiaoYun1901
 ###### Did someone teach me to write scripts lua?
 
