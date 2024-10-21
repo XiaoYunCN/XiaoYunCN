@@ -1,3 +1,3 @@
-# 云脚本主群https://qm.qq.com/q/3iLMGhwYnC
-## 最早的账号https://github.com/uwuathehad
-###### 联系QQ：168777105 小云
+# YunScript QQ： https://qm.qq.com/q/3iLMGhwYnC
+## YunScript Discord：https://discord.gg/W7suZeHa
+###### QQ：168777105  Author：XiaoYun
