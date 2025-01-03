@@ -1,2 +1,2 @@
-##### Script[zh-cn] Discord：https://discord.gg/W7suZeHa
-# Hello!
+##### Roblox Script[zh-cn🇨🇳] Discord：https://discord.gg/W7suZeHa
+## Hello!
